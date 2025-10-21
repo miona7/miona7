@@ -17,13 +17,13 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
 - **Tools & Technologies:**  
   🛠 Yacc, 🛠 Bison, 🗄 SQL, 📊 MATLAB, 📈 R, 🐙 Git, 🐧 Linux  
 
-- **Computer Science Concepts:**  
-  📚 Algorithms & Data Structures  
-  🗃 Relational Databases
-  ⚙ Programming Paradigms (Procedural, Functional, Declarative, Object-Oriented)  
-  🖥 Operating Systems
-  💡 Software Design & Problem Solving
-  🏗 Compiler Construction  
+- **Computer Science Concepts:**
+  - 📚 Algorithms & Data Structures
+  - 🗃 Relational Databases
+  - ⚙ Programming Paradigms (Procedural, Functional, Declarative, Object-Oriented)
+  - 🖥 Operating Systems
+  - 💡 Software Design & Problem Solving
+  - 🏗 Compiler Construction  
   
 
 ---
