@@ -12,7 +12,7 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:**  
-  🟦 C, 🟪 C++, ☕ Java, 🟩 Haskell, 🧩 Prolog, 🟦 Scala, 🐍 Python, 🌐 HTML, 🎨 CSS, ⚡ JavaScript  
+  🟦 C, 🟪 C++, ☕ Java, 🟩 Haskell, 🧩 Prolog, 🟨 Scala, 🐍 Python, 🌐 HTML, 🎨 CSS, ⚡ JavaScript  
 
 - **Tools & Technologies:**  
   🛠 Yacc, 🛠 Bison, 🗄 SQL, 📊 MATLAB, 📈 R, 🐙 Git, 🐧 Linux  
