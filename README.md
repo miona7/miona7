@@ -19,12 +19,11 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
 
 - **Computer Science Concepts:**
   - 📚 Algorithms & Data Structures
+  - 🖥 Operating Systems
   - 🗃 Relational Databases
   - ⚙ Programming Paradigms (Procedural, Functional, Declarative, Object-Oriented)
-  - 🖥 Operating Systems
-  - 💡 Software Design & Problem Solving
   - 🏗 Compiler Construction  
-  
+  - 💡 Software Design & Problem Solving  
 
 ---
 
