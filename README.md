@@ -36,6 +36,6 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
 ---
 
 ## 📫 Connect with me
-- [🔗 LinkedIn](https://www.linkedin.com/in/miona-sretenovic)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/mionasretenovic)  
 
 💡 *Feel free to explore my repositories and projects!*
