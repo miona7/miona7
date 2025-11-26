@@ -28,7 +28,7 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
 ---
 
 ## 🏆 Extra-curricular
-- 🏃 Active in **OCR (Obstacle Course Racing)** and (trail) running — won 8 medals so far  
+- 🏃 Active in **OCR** (Obstacle Course Racing) and (trail) running — won 8 medals so far  
 - 🤝 Enjoy helping friends with studies  
 - 🐾 Spending time with animals  
 - 🏋️ Training at the gym (sometimes even standing in for my trainer 💪)  
