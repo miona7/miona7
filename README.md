@@ -1,6 +1,7 @@
 # Hi, I’m Miona 👋
 
-I’m a **Computer Scientist** graduated from **Faculty of Mathematics, University of Belgrade**.  
+I’m a **Computer Scientist** graduated from **Faculty of Mathematics, University of Belgrade**, where I’m currently pursuing my Master's degree 🎓.    
+
 I’m passionate about **programming, problem solving, algorithms, and exploring different programming paradigms**.  
 
 ---
