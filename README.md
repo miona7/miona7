@@ -16,7 +16,7 @@ I use GitHub to showcase my **university projects, coding exercises, and persona
   🟦 C, 🟪 C++, ☕ Java, 🟩 Haskell, 🧩 Prolog, 🟨 Scala, 🐍 Python, 🌐 HTML, 🎨 CSS, ⚡ JavaScript  
 
 - **Tools & Technologies:**  
- 🐙 Git, 🐧 Linux, 🐳 Docker, ⚙️ CMake, 🐞 GDB, 📈 Callgrind, 🔍 Valgrind, 📊 Gcov/Lcov, 🗄 SQL, ☁️ AWS, 🗄️ DynamoDB, 🌐 Node.js, 📊 MATLAB, 📈 R, 🖥 Qt, ✅ Catch2, ✨ Clang (format & tidy), 📝 Doxygen, 🐚 Bash, 🛠 Yacc, 🛠 Bison   
+ 🐙 Git, 🐧 Linux, 🐳 Docker, ⚙️ CMake, 🐞 GDB, 📈 Callgrind, 🔍 Valgrind, 📊 Gcov/Lcov, 🗄 SQL, ☁️ AWS, 🗄️ DynamoDB, 🌐 Node.js, 📊 MATLAB, 📈 R, 🖥 Qt, ✅ Catch2, ✨ Clang (format & tidy), 📝 Doxygen, 🐚 Bash, 🛠 Yacc, 🛠 Bison, 🧩 MiniSat, 🔍 Z3 SMT Solver, 📐 MiniZinc  
 
 - **Computer Science Concepts:**
   - 📚 Algorithms & Data Structures
